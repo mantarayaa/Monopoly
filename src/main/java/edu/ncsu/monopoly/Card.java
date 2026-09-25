@@ -1,6 +1,7 @@
 package edu.ncsu.monopoly;
 //actualizacion viernes 25 is2
 //acualización prueba
+//klk
 public abstract class Card {
 
     public static final int TYPE_CHANCE = 1;
